@@ -1,0 +1,15 @@
+{
+  "phase": "done",
+  "pages": [
+    {
+      "url": "https://httpbin.org",
+      "status": "ok",
+      "method": "http"
+    },
+    {
+      "url": "https://httpbin.org/forms/post",
+      "status": "ok",
+      "method": "http"
+    }
+  ]
+}
