@@ -1,0 +1,20 @@
+{
+  "phase": "done",
+  "pages": [
+    {
+      "url": "https://nopecha.com",
+      "status": "ok",
+      "method": "http"
+    },
+    {
+      "url": "https://nopecha.com/pricing",
+      "status": "ok",
+      "method": "http"
+    },
+    {
+      "url": "https://nopecha.com/api",
+      "status": "ok",
+      "method": "http"
+    }
+  ]
+}
