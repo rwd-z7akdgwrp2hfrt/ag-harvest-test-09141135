@@ -1,0 +1,10 @@
+{
+  "phase": "done",
+  "pages": [
+    {
+      "url": "http://neverssl.com",
+      "status": "ok",
+      "method": "browser"
+    }
+  ]
+}
