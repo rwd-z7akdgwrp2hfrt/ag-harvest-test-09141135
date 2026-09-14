@@ -1,0 +1,15 @@
+{
+  "phase": "done",
+  "pages": [
+    {
+      "url": "http://info.cern.ch",
+      "status": "ok",
+      "method": "http"
+    },
+    {
+      "url": "http://info.cern.ch/hypertext/WWW/TheProject.html",
+      "status": "ok",
+      "method": "http"
+    }
+  ]
+}
