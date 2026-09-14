@@ -1,0 +1,20 @@
+{
+  "phase": "done",
+  "pages": [
+    {
+      "url": "https://vercel.com",
+      "status": "ok",
+      "method": "http"
+    },
+    {
+      "url": "https://vercel.com/pricing",
+      "status": "ok",
+      "method": "http"
+    },
+    {
+      "url": "https://vercel.com/about",
+      "status": "ok",
+      "method": "http"
+    }
+  ]
+}
